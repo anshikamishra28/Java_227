@@ -1,3 +1,6 @@
+// Anshika Mishra
+// 2400320100227
+
 public class exp2 {
     public static void main(String[] args) {
         int a=Integer.parseInt(args[0]);
