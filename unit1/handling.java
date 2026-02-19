@@ -1,3 +1,4 @@
+
 import java.io.*;
 
 public class handling {
@@ -23,8 +24,6 @@ public class handling {
         System.out.println("cannot divide by zero");
     }
     System.out.println("program continue.....");
-
-
 
     // exception and error is class of throughback 
        // exception can be handled but some errors can't be handled like stack overflow
